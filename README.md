@@ -1,4 +1,4 @@
-Hi I'm TrgyCln,
+Hi I'm Turgay,
 
 - 🔭 I’m currently, improving myself React - Javascript knowledge.
 - 🌱 I’m currently learning everything 🤣 I’m learned VSC, HTML, CSS, JavaScript, Bootstrap, SASS, SCSS and I keep learning Web software components.
