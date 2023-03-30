@@ -13,11 +13,14 @@ Hi I'm Turgay,
 ### Learned Languages and Tools:
 
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /> 
-
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-
+![icons8-visual-studio-code-2019-48](https://user-images.githubusercontent.com/116838197/228767639-e2ba5912-8c52-4824-b4dc-a546a8754c2f.png)
+![icons8-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-48](https://user-images.githubusercontent.com/116838197/228769448-0d34b906-9062-433e-ac99-d31ab94a7fde.png)
+![icons8-css3-48](https://user-images.githubusercontent.com/116838197/228769595-61a72c4a-dad4-40fc-b11c-ea176db73004.png)
+![icons8-javascript-48](https://user-images.githubusercontent.com/116838197/228768953-b299883b-88f3-425d-89b5-6934e535508d.png)
+![icons8-react-40](https://user-images.githubusercontent.com/116838197/228768528-0dc1352b-7b45-42d3-97b7-4233d0093c43.png)
 ![icons8-redux-48](https://user-images.githubusercontent.com/116838197/228764915-c8aff94f-1cf3-4516-b071-d091cb7faea6.png)
+![icons8-sass-48](https://user-images.githubusercontent.com/116838197/228767976-05d3e1ff-2de6-43d8-a984-c022fa2121aa.png)
+![icons8-bootstrap-48](https://user-images.githubusercontent.com/116838197/228770246-2c50ada4-5d2a-486d-b2fe-1fd6ec97fc41.png)
+![icons8-tailwindcss-48](https://user-images.githubusercontent.com/116838197/228767236-371ae523-87c0-45aa-b53b-decd9f5ef870.png)
+![icons8-firebase-48](https://user-images.githubusercontent.com/116838197/228769914-c741b85f-2728-4c51-b381-fd6acd6cbc2d.png)
+
