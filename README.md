@@ -20,8 +20,3 @@ Hi I'm Turgay,
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
-
-
-
-![icons8-tailwindcss-48](https://user-images.githubusercontent.com/116838197/228764692-3f0a1346-c76c-4bb9-a42f-30e4efa14671.png)
-
