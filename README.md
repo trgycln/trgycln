@@ -14,7 +14,8 @@ Hi I'm Turgay,
 
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />![icons8-redux-48](https://user-images.githubusercontent.com/116838197/228764915-c8aff94f-1cf3-4516-b071-d091cb7faea6.png)
+
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
@@ -22,4 +23,5 @@ Hi I'm Turgay,
 
 
 
+![icons8-tailwindcss-48](https://user-images.githubusercontent.com/116838197/228764692-3f0a1346-c76c-4bb9-a42f-30e4efa14671.png)
 
