@@ -18,6 +18,8 @@ Hi I'm Turgay,
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img src="https://icons8.com/icon/CIAZz2CYc6Kc/tailwindcss" />
+<img width="26px" src="![icons8-tailwindcss-48](https://user-images.githubusercontent.com/116838197/228764229-574bcce8-c337-46d4-ae19-763b4ee5a882.png)" style="padding-right:10px;"/>
+
+
 
 
