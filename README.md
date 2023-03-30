@@ -19,4 +19,24 @@ Hi I'm Turgay,
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+Hi I'm Turgay,
 
+- 🔭 I’m currently, improving myself React - Javascript knowledge.
+- 🌱 I’m currently learning everything 🤣 I’m learned VSC, HTML, CSS, JavaScript, React, Redux, Bootstrap, Tailwind, SASS, SCSS, Firebase and I keep learning Web software components.
+- 👯 I like discipline and hard working, I know very well the necessity of teamwork in software.
+- 🤔 I give importance to sharing knowledge and working with common sense. So I’m looking to collaborate with other content creators.
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/trgycln) 
+
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=trgycln&show_icons=true&theme=radical)
+
+### Learned Languages and Tools:
+
+
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />![icons8-redux-48](https://user-images.githubusercontent.com/116838197/228764915-c8aff94f-1cf3-4516-b071-d091cb7faea6.png)
+
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
